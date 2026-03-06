@@ -1,4 +1,4 @@
-# 💾 HR Absence & Leave Tracker (Excel Edition)
+# HR Absence & Leave Tracker (Excel Edition)
 
 Welcome to this small but powerful tool for managing employee absences!
 
@@ -6,7 +6,7 @@ This Excel file is designed to provide a **clear and immediate overview** of vac
 
 ---
 
-## 📂 What's included
+## What's included
 
 * **Employees**: full employee registry with department, job title, FTE, and key dates.
 * **Absence and leave records**: all events logged day by day.
@@ -16,22 +16,22 @@ This Excel file is designed to provide a **clear and immediate overview** of vac
 
 ---
 
-## 🎯 What it's for
+## What it's for
 
-* 📊 Track **sick leave, maternity, training, bereavement, blood donation**, and more.
-* 🔍 Understand who’s absent, why, and for how long.
-* 🧠 Gather valuable insights to support smarter HR decisions.
+* Track **sick leave, maternity, training, bereavement, blood donation**, and more.
+* Understand who’s absent, why, and for how long.
+* Gather valuable insights to support smarter HR decisions.
 
 ---
 
-## 🛠️ Tools used
+## Tools used
 
 * **Microsoft Excel** (tables, formulas, dynamic charts)
-* ✨ No macros, just pivot power!
+* No macros, just pivot power!
 
 ---
 
-## ⚠️ Fake data only
+## Fake data only
 
 All names and information are either fictional or publicly recognizable. No real employees were harmed in the making of this file.
 
